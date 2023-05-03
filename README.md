@@ -1,5 +1,7 @@
 # STARTER-jpa03
 
+Running at: https://jpa03-natehoang.dokku-10.cs.ucsb.edu/
+
 # Getting Started on localhost
 
 Before running the application for the first time on localhost, you must: 
