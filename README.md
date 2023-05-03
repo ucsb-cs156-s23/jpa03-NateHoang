@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-NateHoang
 
 Running at: https://jpa03-natehoang.dokku-10.cs.ucsb.edu/
 
